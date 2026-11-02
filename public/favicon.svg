@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" role="img" aria-label="FarmCoop">
+  <circle cx="22" cy="22" r="22" fill="#465626" />
+  <circle cx="22" cy="17.5" r="6.2" fill="#F4EDE6" />
+  <g fill="none" stroke="#F4EDE6" stroke-width="2.6" stroke-linecap="round">
+    <path d="M8.5 29.5c4.5-2.8 9.2-2.8 13.5 0s9 2.8 13.5 0" />
+    <path d="M8.5 35.2c4.5-2.8 9.2-2.8 13.5 0s9 2.8 13.5 0" opacity="0.75" />
+  </g>
+</svg>

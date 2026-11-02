@@ -3,6 +3,7 @@ import { clsx } from 'clsx'
 import {
   ArrowLeft,
   ArrowUpRight,
+  BookOpen,
   Building2,
   Coins,
   HandCoins,
@@ -23,7 +24,7 @@ export interface AppTab {
   id: string
   label: string
   description: string
-  group: 'Cooperative' | 'Members' | 'Operations'
+  group: 'Cooperative' | 'Members' | 'Operations' | 'Help'
   icon: LucideIcon
 }
 
@@ -77,9 +78,16 @@ export const APP_TABS: AppTab[] = [
     group: 'Operations',
     icon: ShieldCheck,
   },
+  {
+    id: 'guide',
+    label: 'User guide',
+    description: 'How the co-op works end to end: who can act on each screen, the rules the contract enforces, and answers to first-visit questions.',
+    group: 'Help',
+    icon: BookOpen,
+  },
 ]
 
-const GROUPS = ['Cooperative', 'Members', 'Operations'] as const
+const GROUPS = ['Cooperative', 'Members', 'Operations', 'Help'] as const
 
 function NavLinks({ tab, onNavigate }: { tab: string; onNavigate?: () => void }) {
   return (

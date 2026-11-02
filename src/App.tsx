@@ -9,6 +9,7 @@ import { MarketplacePage } from '@/pages/MarketplacePage'
 import { BusinessDashboard } from '@/pages/BusinessDashboard'
 import { FunderView } from '@/pages/FunderView'
 import { CoordinatorPanel } from '@/pages/CoordinatorPanel'
+import { GuidePage } from '@/pages/GuidePage'
 import { useRoute } from '@/lib/router'
 
 function renderTab(tab: string) {
@@ -25,6 +26,8 @@ function renderTab(tab: string) {
       return <FunderView />
     case 'coordinator':
       return <CoordinatorPanel />
+    case 'guide':
+      return <GuidePage />
     case 'orders':
     default:
       return <OrdersPage />
