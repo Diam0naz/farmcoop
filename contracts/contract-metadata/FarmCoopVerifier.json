@@ -1,0 +1,221 @@
+{
+  "contractAddress": "0x44f1e084b291e7a6ee9950c178047538d330df96",
+  "network": "ARC-TESTNET",
+  "deployerWalletId": "3c2464b2-8369-52e2-a782-800bbeca5396",
+  "contract_code_path": "/home/user/app/contracts/FarmCoopVerifier.sol",
+  "contract_compiled_code_path": "/home/user/app/contracts/out/FarmCoopVerifier.sol/FarmCoopVerifier.json",
+  "contract_network_and_links": {
+    "Arc Testnet": "https://explorer.testnet.arc.io/address/0x44f1e084b291e7a6ee9950c178047538d330df96"
+  },
+  "contract_deployments": [
+    {
+      "chain": "Arc Testnet",
+      "address": "0x44f1e084b291e7a6ee9950c178047538d330df96",
+      "explorerUrl": "https://explorer.testnet.arc.io/address/0x44f1e084b291e7a6ee9950c178047538d330df96",
+      "txHash": "0xbec033150ff66d62eba2a4646efc08e3dc21ef02fe6d57550076982018d2daf0",
+      "deployedAt": "2026-10-16T15:00:31.386Z"
+    }
+  ],
+  "abi": [
+    {
+      "type": "constructor",
+      "inputs": [
+        {
+          "name": "coordinator_",
+          "type": "address",
+          "internalType": "address"
+        },
+        {
+          "name": "verifiers_",
+          "type": "address[]",
+          "internalType": "address[]"
+        }
+      ],
+      "stateMutability": "nonpayable"
+    },
+    {
+      "type": "function",
+      "name": "addVerifier",
+      "inputs": [
+        {
+          "name": "verifier",
+          "type": "address",
+          "internalType": "address"
+        }
+      ],
+      "outputs": [],
+      "stateMutability": "nonpayable"
+    },
+    {
+      "type": "function",
+      "name": "coordinator",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "",
+          "type": "address",
+          "internalType": "address"
+        }
+      ],
+      "stateMutability": "view"
+    },
+    {
+      "type": "function",
+      "name": "isListingVerified",
+      "inputs": [
+        {
+          "name": "listingId",
+          "type": "uint256",
+          "internalType": "uint256"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "bool",
+          "internalType": "bool"
+        }
+      ],
+      "stateMutability": "view"
+    },
+    {
+      "type": "function",
+      "name": "isVerifier",
+      "inputs": [
+        {
+          "name": "",
+          "type": "address",
+          "internalType": "address"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "bool",
+          "internalType": "bool"
+        }
+      ],
+      "stateMutability": "view"
+    },
+    {
+      "type": "function",
+      "name": "removeVerifier",
+      "inputs": [
+        {
+          "name": "verifier",
+          "type": "address",
+          "internalType": "address"
+        }
+      ],
+      "outputs": [],
+      "stateMutability": "nonpayable"
+    },
+    {
+      "type": "function",
+      "name": "unverify",
+      "inputs": [
+        {
+          "name": "listingId",
+          "type": "uint256",
+          "internalType": "uint256"
+        }
+      ],
+      "outputs": [],
+      "stateMutability": "nonpayable"
+    },
+    {
+      "type": "function",
+      "name": "verified",
+      "inputs": [
+        {
+          "name": "",
+          "type": "uint256",
+          "internalType": "uint256"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "bool",
+          "internalType": "bool"
+        }
+      ],
+      "stateMutability": "view"
+    },
+    {
+      "type": "function",
+      "name": "verify",
+      "inputs": [
+        {
+          "name": "listingId",
+          "type": "uint256",
+          "internalType": "uint256"
+        }
+      ],
+      "outputs": [],
+      "stateMutability": "nonpayable"
+    },
+    {
+      "type": "event",
+      "name": "ListingUnverified",
+      "inputs": [
+        {
+          "name": "listingId",
+          "type": "uint256",
+          "indexed": true,
+          "internalType": "uint256"
+        }
+      ],
+      "anonymous": false
+    },
+    {
+      "type": "event",
+      "name": "ListingVerified",
+      "inputs": [
+        {
+          "name": "listingId",
+          "type": "uint256",
+          "indexed": true,
+          "internalType": "uint256"
+        },
+        {
+          "name": "by",
+          "type": "address",
+          "indexed": false,
+          "internalType": "address"
+        }
+      ],
+      "anonymous": false
+    },
+    {
+      "type": "error",
+      "name": "AlreadyVerified",
+      "inputs": []
+    },
+    {
+      "type": "error",
+      "name": "InvalidVerifierCount",
+      "inputs": []
+    },
+    {
+      "type": "error",
+      "name": "NotCoordinator",
+      "inputs": []
+    },
+    {
+      "type": "error",
+      "name": "NotVerified",
+      "inputs": []
+    },
+    {
+      "type": "error",
+      "name": "NotVerifierOrCoordinator",
+      "inputs": []
+    },
+    {
+      "type": "error",
+      "name": "ZeroAddress",
+      "inputs": []
+    }
+  ]
+}

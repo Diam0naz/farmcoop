@@ -1,0 +1,54 @@
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792163607998}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792165553782}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792166228363}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792166251618}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792166256298}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792166579927}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792166584906}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792167136703}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792167137729}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792167137891}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iwiqoju229k8769hy57dj.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1792167519238}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793587359330}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793587359331}
+{"level":"debug","message":"[vite] hot updated: /src/components/WalletBar.tsx","timestamp":1793587359331}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CoordinatorPanel.tsx","timestamp":1793587359331}
+{"level":"debug","message":"[vite] hot updated: /src/pages/BusinessDashboard.tsx","timestamp":1793587359331}
+{"level":"debug","message":"[vite] hot updated: /src/pages/BalancePage.tsx","timestamp":1793587359331}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1793587359331}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PoolPage.tsx","timestamp":1793587359332}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MarketplacePage.tsx","timestamp":1793587359332}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FunderView.tsx","timestamp":1793587359332}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxLink.tsx","timestamp":1793587359332}
+{"level":"debug","message":"[vite] connected.","timestamp":1793587363911}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793587654245}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793587682218}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793587699577}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793587699632}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793588061146}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793588061149}
+{"level":"debug","message":"[vite] hot updated: /src/components/WalletBar.tsx","timestamp":1793588061149}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CoordinatorPanel.tsx","timestamp":1793588061150}
+{"level":"debug","message":"[vite] hot updated: /src/pages/BusinessDashboard.tsx","timestamp":1793588061151}
+{"level":"debug","message":"[vite] hot updated: /src/pages/BalancePage.tsx","timestamp":1793588061152}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1793588061153}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PoolPage.tsx","timestamp":1793588061154}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MarketplacePage.tsx","timestamp":1793588061154}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FunderView.tsx","timestamp":1793588061155}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxLink.tsx","timestamp":1793588061155}
+{"level":"debug","message":"[vite] connected.","timestamp":1793588064930}
+{"level":"debug","message":"[vite] connected.","timestamp":1793588342753}
+{"level":"debug","message":"[vite] connected.","timestamp":1793588408408}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793588530352}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793588820303}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793588820305}
+{"level":"debug","message":"[vite] hot updated: /src/components/WalletBar.tsx","timestamp":1793588820306}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CoordinatorPanel.tsx","timestamp":1793588820307}
+{"level":"debug","message":"[vite] hot updated: /src/pages/BusinessDashboard.tsx","timestamp":1793588820309}
+{"level":"debug","message":"[vite] hot updated: /src/pages/BalancePage.tsx","timestamp":1793588820310}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1793588820311}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PoolPage.tsx","timestamp":1793588820312}
+{"level":"debug","message":"[vite] hot updated: /src/pages/MarketplacePage.tsx","timestamp":1793588820313}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FunderView.tsx","timestamp":1793588820314}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxLink.tsx","timestamp":1793588820315}
+{"level":"debug","message":"[vite] connected.","timestamp":1793588824282}
